@@ -10,8 +10,8 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 1,
-            "red": 1
+            "green": 0.3572051257621951,
+            "red": 0.3627668957691563
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "This is a test"
+    "string": "I’ve changed the text\nand to blue"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 281,
-    "x": 194.5,
+    "height": 112,
+    "width": 462,
+    "x": 104,
     "y": 234
   },
-  "glyphBounds": "{{1, 9}, {280, 37}}",
+  "glyphBounds": "{{4, 8}, {458, 94}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "This is a test",
+  "name": "I’ve changed the tex",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -120,8 +120,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 1,
-          "red": 1
+          "green": 0.3572051257621951,
+          "red": 0.3627668957691563
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
